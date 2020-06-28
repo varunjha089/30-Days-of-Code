@@ -1,5 +1,5 @@
 """
-    Trying to some directory at
+    Trying to create some directory at
     ~/30-Days-of-Code/
 """
 
