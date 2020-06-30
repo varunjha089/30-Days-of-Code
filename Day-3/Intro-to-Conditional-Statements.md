@@ -53,4 +53,4 @@ Sample Case 1: **n = 24**
 
 ## Result 
 **ALL TEST CASES PASSED**
-![Day-2](results.png)
+![conditional](results.png)
