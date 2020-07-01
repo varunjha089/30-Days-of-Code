@@ -32,3 +32,7 @@ Print **10** lines of output; each line **i** (where **1 <= i <= 10**) contains 
     2 x 8 = 16
     2 x 9 = 18
     2 x 10 = 20
+    
+### Result
+**ALL TEST CASES PASSED**
+![result](result.png)
