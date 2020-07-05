@@ -29,5 +29,5 @@ Print the elements of array  in reverse order as a single line of space-separate
     2 3 4 1
     
 ### Result
-**ALL TEST CASES PASSED**\
+**ALL TEST CASES PASSED**
 ![result](result.png)
