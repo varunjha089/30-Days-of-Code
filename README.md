@@ -35,7 +35,9 @@
 |   30	|   Bitwise AND	|   25-07-2020	|  [Link](/Day-29/) 	|    
   
   
- ### Python programme to generate Directory 
+[![Run on Repl.it](https://repl.it/badge/github/varunjha089/30-Days-of-Code)](https://repl.it/github/varunjha089/30-Days-of-Code)
+
+### Python programme to generate Directory 
  
 [***creating-directory.py***](/creating-directory.py) is used to automate this task.
    - It uses Python **OS** module.
