@@ -1,3 +1,6 @@
+[![Run on Repl.it](https://repl.it/badge/github/varunjha089/30-Days-of-Code)](https://repl.it/github/varunjha089/30-Days-of-Code)
+
+
 # 30 Days of Code
 30 Days of Code is a **HackerRank** challenge.
 
@@ -34,8 +37,6 @@
 |   29	|   RegEx, Patterns, and Intro to Databases	|   24-07-2020	|  [Link](/Day-28/) 	|    
 |   30	|   Bitwise AND	|   25-07-2020	|  [Link](/Day-29/) 	|    
   
-  
-[![Run on Repl.it](https://repl.it/badge/github/varunjha089/30-Days-of-Code)](https://repl.it/github/varunjha089/30-Days-of-Code)
 
 ### Python programme to generate Directory 
  
