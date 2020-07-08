@@ -14,8 +14,8 @@
 |   06	|   Loops	|   01-07-2020	|  [Link](/Day-5/) 	|   
 |   07	|   Let's Review	|   02-07-2020	|  [Link](/Day-6/) 	|   
 |   08	|   Arrays	|   03-07-2020	|  [Link](/Day-7/) 	|   
-|   09	|   Dictionaries and Maps	|   04-07-2020	|  [Link](/Day-8/) 	| 
-|   10	|   Recursion 3	|   05-07-2020	|  [Link](/Day-9/) 	|   
+|   09	|   Dictionaries and Maps(.md^)	|   04-07-2020	|  [Link](/Day-8/) 	| 
+|   10	|   Recursion 3(.md^)	|   05-07-2020	|  [Link](/Day-9/) 	|   
 |   11	|   Binary Numbers	|   06-07-2020	|  [Link](/Day-10/) 	|   
 |   12	|   2D Arrays	|   07-07-2020	|  [Link](/Day-11/) 	|   
 |   13	|   Inheritance	|   08-07-2020	|  [Link](/Day-12/) 	|   
