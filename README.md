@@ -6,16 +6,16 @@
 
 |   Days	|   Challenges	|  Dates 	|   Links	| 
 |---	|---	|---	|---	|
-|   01	|   Hello, World	|   26-06-2020	|   [Link](/Day-0/)	|   
-|   02	|   Data Types	|   28-06-2020	|   [Link](/Day-1/)	|   
-|   03	|   Operators	|   28-06-2020	|  [Link](/Day-2/) 	|   
-|   04	|   Intro to Conditional Statements	|   29-06-2020	|  [Link](/Day-3/) 	|   
-|   05	|   Class vs. Instance	|   30-06-2020	|  [Link](/Day-4/) 	|   
-|   06	|   Loops	|   01-07-2020	|  [Link](/Day-5/) 	|   
-|   07	|   Let's Review	|   02-07-2020	|  [Link](/Day-6/) 	|   
-|   08	|   Arrays	|   03-07-2020	|  [Link](/Day-7/) 	|   
-|   09	|   Dictionaries and Maps(.md^)	|   04-07-2020	|  [Link](/Day-8/) 	| 
-|   10	|   Recursion 3(.md^)	|   05-07-2020	|  [Link](/Day-9/) 	|   
+|   01	|   Hello, World	|   26-06-2020	|   [Link](/Day-00/)	|   
+|   02	|   Data Types	|   28-06-2020	|   [Link](/Day-01/)	|   
+|   03	|   Operators	|   28-06-2020	|  [Link](/Day-02/) 	|   
+|   04	|   Intro to Conditional Statements	|   29-06-2020	|  [Link](/Day-03/) 	|   
+|   05	|   Class vs. Instance	|   30-06-2020	|  [Link](/Day-04/) 	|   
+|   06	|   Loops	|   01-07-2020	|  [Link](/Day-05/) 	|   
+|   07	|   Let's Review	|   02-07-2020	|  [Link](/Day-06/) 	|   
+|   08	|   Arrays	|   03-07-2020	|  [Link](/Day-07/) 	|   
+|   09	|   Dictionaries and Maps(.md^)	|   04-07-2020	|  [Link](/Day-08/) 	| 
+|   10	|   Recursion 3(.md^)	|   05-07-2020	|  [Link](/Day-09/) 	|   
 |   11	|   Binary Numbers	|   06-07-2020	|  [Link](/Day-10/) 	|   
 |   12	|   2D Arrays	|   07-07-2020	|  [Link](/Day-11/) 	|   
 |   13	|   Inheritance	|   08-07-2020	|  [Link](/Day-12/) 	|   
