@@ -21,10 +21,8 @@ class Student(Person):
     #   scores - An array of integers denoting the Person's test scores.
     #
     # Write your constructor here
-    def __init__(self, firstName, lastName, idNumber, scores):
-        self.firstName = firstName
-        self.lastName = lastName
-        self.idNumber = idNumber
+    def __init__(self, firstName, lastName, idNumber ,scores):
+        Person.__init__(self, firstName, lastName, idNumber)
         self.scores = scores
 
     #   Function Name: calculate
